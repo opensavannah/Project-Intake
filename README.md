@@ -23,4 +23,4 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 Thanks for co-creating with us!
 
 ### Note for Delivery Lead(s)
-Once a project becomes active, be sure to close the issue and add the repo to our [Open Savannah Projects List](https://docs.google.com/spreadsheets/d/1k5gff8Mvs6rb3sz6aLll5Dq8joftl65Gmy33DO-7Kv8/edit#gid=0) so that it populates on our website's Projects page.
+Once a project becomes active, be sure to close the issue and add the repo to our [Open Savannah Projects List](https://docs.google.com/spreadsheets/d/1zGTWS4PQ2t-HqDFVeSVoG2KLO1CvgA5lO3vuKJm58rY/edit?usp=sharing) so that it populates on our website's Projects page.
